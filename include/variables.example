@@ -1,0 +1,17 @@
+// Rename to variables.h
+
+#ifndef IRCONTROLLER_VARIABLES_H
+#define IRCONTROLLER_VARIABLES_H
+
+// WIFI Info
+#define ENV_WIFI_SSID "";          // WiFi account
+#define ENV_WIFI_PASSWORD ""; // WiFi password
+
+// MQTT configuration
+#define ENV_MQTT_SERVER "";
+#define ENV_MQTT_PORT "1883";
+#define ENV_MQTT_USERNAME "";
+#define ENV_MQTT_PASSWORD "";
+#define ENV_MQTT_SUBSCRIBE_TOPIC "";
+
+#endif //IRCONTROLLER_VARIABLES_H
