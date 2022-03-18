@@ -2,6 +2,8 @@
 
 Simple Arduino project that uses MQTT messages to trigger an IR transmitter.
 
+[IR Codes source](http://woodsgood.ca/projects/2015/02/13/rgb-led-strip-controllers-ir-codes/)
+
 ## Hardware used:
 
 - Arduino Mega 2560
